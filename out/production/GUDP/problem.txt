@@ -1,0 +1,1 @@
+运行他的receive， 当运行到datagramsocket.send发送udp数据被对方接收后，对方会覆盖原发送文件。
